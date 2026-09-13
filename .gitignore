@@ -42,7 +42,7 @@ build/autoconf/missing
 build/build/pkgconfig/libarchive.pc
 build/cat/test/list.h
 build/cpio/test/list.h
-build/libarchive/test/list.h
+build/libarchive/
 build/pkgconfig/libarchive.pc
 build/tar/test/list.h
 build/unzip/test/list.h
